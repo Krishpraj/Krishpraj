@@ -37,21 +37,4 @@
 ### " A keyboard is a musical instrument " 
    ~ Krish 2025
 
---- 
-### 🌟 Major Projects  
-#### 1. [Club Coordination and Interaction Portal](https://github.com/Krishpraj/Club-Coordination-and-Interaction-Portal)  
-- **Tech Stack:** Node.js, Express.js, HTML/CSS, JavaScript  
-- Streamlined student-teacher interactions for school clubs by implementing a secure database system.  
-- Ensured efficient data handling with user authentication and access control mechanisms.  
-
-#### 2. [Autonomous Plant Monitoring System](https://github.com/Krishpraj/Krishpraj-Autonomous-Plant-Monitoring-System)  
-- **Tech Stack:** C++, STM32 microcontrollers  
-- Built a multi-microcontroller system with UART/I2C communication for sensors, alarms, and LCD modules.  
-- Integrated real-time serial communication and data monitoring using PuTTY.  
-
-#### 3. [Dynamic Personal Portfolio Website](https://github.com/Krishpraj/Portfolio)  
-- **Tech Stack:** HTML, CSS, JavaScript, PHP  
-- Developed a fully responsive portfolio showcasing skills, projects, and achievements.  
-- Integrated a contact form for seamless communication.
-
-![](https://github-trophies.vercel.app/?username=krishpraj)
+---

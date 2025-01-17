@@ -34,5 +34,5 @@
 
 ---
 
-### 🌟 " A keyboard is a musical instrument " 
- - Krish 2025
+### " A keyboard is a musical instrument " 
+   - Krish 2025

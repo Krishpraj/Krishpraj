@@ -35,7 +35,7 @@
 ---
 
 ### 🌟 Fun Fact  
-When I'm not coding, I’m probably trying to explain to my Wi-Fi why it should love me back, debugging my smart home setup, or convincing my keyboard it’s a musical instrument.  
+A keyboard is a musical instrument
 ---
 
 💡 *“Technology is best when it brings people together.”*  

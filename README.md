@@ -8,7 +8,6 @@
 
 ---
 ### 🛠️ Languages & Tools  
-****
 <p align="left">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
@@ -34,7 +33,6 @@
 - 🖥️ GitHub: [github.com/Krishpraj](https://github.com/Krishpraj)  
 
 ---
-![](https://github-trophies.vercel.app/?username=krishpraj)
 
 ### " A keyboard is a musical instrument " 
    ~ Krish 2025
@@ -54,4 +52,6 @@
 #### 3. [Dynamic Personal Portfolio Website](https://github.com/Krishpraj/Portfolio)  
 - **Tech Stack:** HTML, CSS, JavaScript, PHP  
 - Developed a fully responsive portfolio showcasing skills, projects, and achievements.  
-- Integrated a contact form for seamless communication.  
+- Integrated a contact form for seamless communication.
+
+![](https://github-trophies.vercel.app/?username=krishpraj)

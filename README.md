@@ -7,7 +7,7 @@
 - 💬 Always excited to collaborate on innovative **programming** and **software development** projects.
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishpraj)](https://github.com/krishpraj/github-readme-stats)
 ### 🌟 Major Projects  
 #### 1. [Club Coordination and Interaction Portal](https://github.com/Krishpraj/Club-Coordination-and-Interaction-Portal)  
 - **Tech Stack:** Node.js, Express.js, HTML/CSS, JavaScript  

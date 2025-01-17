@@ -33,6 +33,7 @@
 - 🖥️ GitHub: [github.com/Krishpraj](https://github.com/Krishpraj)  
 
 ---
+![](https://github-trophies.vercel.app/?username=krishpraj)
 
 ### " A keyboard is a musical instrument " 
    ~ Krish 2025

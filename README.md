@@ -34,8 +34,5 @@
 
 ---
 
-### 🌟 Fun Fact  
-A keyboard is a musical instrument
----
-
-💡 *“Technology is best when it brings people together.”*  
+### 🌟 " A keyboard is a musical instrument " 
+ - Krish 2025

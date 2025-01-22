@@ -29,7 +29,7 @@
 ### 🌐 Connect with Me
 - 📧 Email: [contact@krishpraj6@gmail.com](mailto:contact@krishpraj6@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/krish-prajapati6](https://linkedin.com/in/krish-prajapati6)  
-- 🌎 Portfolio: [krishpraj.github.io/Portfolio](https://krishpraj.github.io/Portfolio/)  
+- 🌎 Portfolio: [krishprajapati.me](https://krishpraj.github.io/Portfolio/)  
 - 🖥️ GitHub: [github.com/Krishpraj](https://github.com/Krishpraj)  
 
 ---

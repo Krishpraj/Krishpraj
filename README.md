@@ -9,6 +9,13 @@
 ### 🚀 My Weekly Coding Stats 
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 06 February 2025 - To: 13 February 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 ---
 ### 🛠️ Languages & Tools  

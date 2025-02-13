@@ -5,7 +5,20 @@
 - 🌟 Skilled in **software development**, **microcontroller systems**, and **web development**.
 - 🌱 Currently learning advanced **embedded systems design** and delving further into **C++** 
 - 💬 Always excited to collaborate on innovative **programming** and **software development** projects.
+- 
+📊 **this week i spent my time on:**
 
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   32 hrs 31 mins  ███████████████████████░░   91.54 %
+Python       1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+JSON         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Text         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+```
+
+<!--END_SECTION:waka-->
 ---
 ### 🛠️ Languages & Tools  
 <p align="left">

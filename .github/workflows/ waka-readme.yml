@@ -5,20 +5,11 @@ on:
   schedule:
     # Runs every 2 hours
    - cron: "*/1 * * * *"
-
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: "true"
-          SHOW_TIME: "true"
-          SHOW_TOTAL: "true"
-          TIME_RANGE: "last_7_days"  # Options: today, last_7_days, last_30_days, last_6_months, last_year, all_time
-          LANG_COUNT: 5  # Number of top languages to show
-          STOP_AT_OTHER: "true"  # Hide "Other" category if necessary
-          COMMIT_MESSAGE: "Updated WakaTime stats in README"

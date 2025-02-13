@@ -6,7 +6,7 @@
 - 🌱 Currently learning advanced **embedded systems design** and delving further into **C++** 
 - 💬 Always excited to collaborate on innovative **programming** and **software development** projects.
 - 
-📊 **this week i spent my time on:**
+# 🚀 My Weekly Coding Stats (via WakaTime)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

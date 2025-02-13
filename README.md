@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Krish Prajapati!
-![Mario Berry](https://mario.wiki.gallery/images/thumb/6/64/SMO_Artwork_Berry.png/187px-SMO_Artwork_Berry.png)
+<img src="https://mario.wiki.gallery/images/thumb/6/64/SMO_Artwork_Berry.png/187px-SMO_Artwork_Berry.png" alt="Mario Berry" width="100">
 
 ### 🚀 About Me
 - 🎓 Computer Engineering student at the University of Waterloo passionate about creating impactful solutions.

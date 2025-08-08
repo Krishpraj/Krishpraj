@@ -44,7 +44,3 @@ No activity tracked
 
 ---
 
-### " A keyboard is a musical instrument " 
-   ~ Krish 2025
-
----

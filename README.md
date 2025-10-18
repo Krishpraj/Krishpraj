@@ -7,15 +7,6 @@
 - 🌱 Currently learning advanced **embedded systems design** and delving further into **C++** 
 - 💬 Always excited to collaborate on innovative **programming** and **software development** projects.
 
-### 🚀 My Weekly Coding Stats 
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 ---
 ### 🛠️ Languages & Tools  
 <p align="left">

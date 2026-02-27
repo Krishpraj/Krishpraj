@@ -9,4 +9,4 @@
 - **[GreenLens](https://github.com/krishpraj/greenlens)** – Sustainability-focused platform for visualizing and analyzing environmental impact data.  
 
 
-links: [github](https://github.com/Krishpraj) · [linkedin](https://www.linkedin.com/in/krishpraj)
+[github](https://github.com/Krishpraj) · [linkedin](https://www.linkedin.com/in/krishpraj)
